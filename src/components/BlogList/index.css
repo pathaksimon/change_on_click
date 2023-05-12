@@ -1,0 +1,13 @@
+.head {
+  font-size: 15px;
+  color: black;
+}
+
+.lista {
+  background-color: orange;
+}
+
+.top {
+  display: flex;
+  justify-content: space-between;
+}

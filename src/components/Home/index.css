@@ -1,0 +1,26 @@
+.home-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+.card1 {
+  background-color: red;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.photo {
+  width: 30%;
+}
+
+.ul {
+  background-color: blue;
+  width: 100%;
+  list-style-type: none;
+  padding-left: 0px;
+}
